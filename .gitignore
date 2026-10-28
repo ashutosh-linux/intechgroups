@@ -1,0 +1,6 @@
+.env
+node_modules/
+public/uploads/*
+!public/uploads/gallery/
+!public/uploads/certificates/
+!public/uploads/resumes/
